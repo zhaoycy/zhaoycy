@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Lanbing Zhao! 
 
-i am a data analyst with a background in macroeconomic analysis. <br>
+I am a data analyst with a background in macroeconomic analysis. <br>
 
 After **four years as an Economist at the People’s Bank of China** and completing a data analysis bootcamp, I transitioned into a Junior Data Analyst role at Fortray Global Services Ltd. In this position, I have worked extensively with large datasets, developed interactive dashboards, and contributed to data-driven decision-making. My expertise in Python, SQL, and data visualization tools such as Power BI and Tableau has enabled me to enhance reporting accuracy and streamline analytics processes.<br> 
 
